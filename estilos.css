@@ -52,7 +52,7 @@ main .personagem .imagem{
     line-height: 24px;
 }
 .conteudo .logo{
-    background-image: url("imagens/imagem\ quadra\ suculenta\ negra.png");
+    background-image: url();
     background-size: cover;
     height: 100px;
     width: 230px;
